@@ -2,4 +2,4 @@
 
 This is my fifth repository on GitHub!
 
-My Website on Pages: https://github.com/slxxmpt/lab-5
+My Website on Pages: https://slxxmpt.github.io/lab-5/
